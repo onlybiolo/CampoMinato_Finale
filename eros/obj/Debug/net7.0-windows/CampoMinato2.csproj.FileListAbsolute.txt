@@ -1,0 +1,93 @@
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.AssemblyReference.cache
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FGioca.resources
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FImpostazioni.resources
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.Form1.resources
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FPartita.resources
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.GenerateResource.cache
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.exe
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.deps.json
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.runtimeconfig.json
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.pdb
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.Properties.Resources.resources
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.AssemblyInfo.cs
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.sourcelink.json
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMin.5C3DDDE3.Up2Date
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\refint\CampoMinato2.dll
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.pdb
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.genruntimeconfig.cache
+C:\Users\biolo\Desktop\Nuova cartella\CampoMinato2\obj\Debug\net7.0-windows\ref\CampoMinato2.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.exe
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.deps.json
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.runtimeconfig.json
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.pdb
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.AssemblyReference.cache
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FGioca.resources
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FImpostazioni.resources
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.Form1.resources
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FPartita.resources
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FSalva.resources
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.Properties.Resources.resources
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.GenerateResource.cache
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.AssemblyInfoInputs.cache
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.AssemblyInfo.cs
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.CoreCompileInputs.cache
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.sourcelink.json
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMin.5C3DDDE3.Up2Date
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\refint\CampoMinato2.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.pdb
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.genruntimeconfig.cache
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\ref\CampoMinato2.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\CampoMinato\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FCarica.resources
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.exe
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.deps.json
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.runtimeconfig.json
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\CampoMinato2.pdb
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.AssemblyReference.cache
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FCarica.resources
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FGioca.resources
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FImpostazioni.resources
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.Form1.resources
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FPartita.resources
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.FSalva.resources
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.Properties.Resources.resources
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.GenerateResource.cache
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.AssemblyInfoInputs.cache
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.AssemblyInfo.cs
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.CoreCompileInputs.cache
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.csproj.CopyComplete
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\refint\CampoMinato2.dll
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.pdb
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\CampoMinato2.genruntimeconfig.cache
+C:\Users\10933991\Desktop\C#\CampoMinato2\obj\Debug\net7.0-windows\ref\CampoMinato2.dll
